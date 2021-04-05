@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Sistema_Faxineira:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Sistema_Faxineira</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Sistema_Faxineira-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Sistema_Faxineira:war exploded" />
+    </root>
+  </artifact>
+</component>
